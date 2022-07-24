@@ -1,0 +1,63 @@
+/*tipo de Fonte titulos: Edu VIC WA NT Beginner
+Tipo de fonte contenido: Roboto*/
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+.image_top {
+    top: 25px;
+    left: 22px;
+    width: 883px;
+    height: 374px;
+    border: 1px solid #707070;
+}
+.titulo_1 {
+    text-align: left;
+    font-family: "Edu VIC WA NT Beginner", sans-serif;
+    font-size: 60px;
+    letter-spacing: 4px;
+    color: chocolate;
+    opacity: 1;
+}
+.titulo_veja {
+    color: #726953;
+}
+
+a {
+    text-decoration: none;
+    color: #302e29;
+}
+#A4 {
+    text-align: left;
+    font-family: "Edu VIC WA NT Beginner", sans-serif;
+    font-size: 60px;
+    letter-spacing: 4px;
+    color: chocolate;
+    opacity: 1;
+}
+#A1 {
+    text-align: left;
+    font-family: "Edu VIC WA NT Beginner", sans-serif;
+    font-size: 40px;
+    letter-spacing: 4px;
+    color: chocolate;
+    opacity: 1;
+}
+#A2 {
+    text-align: left;
+    font-family: "Edu VIC WA NT Beginner", sans-serif;
+    font-size: 40px;
+    letter-spacing: 4px;
+    color: chocolate;
+    opacity: 1;
+}
+#A3 {
+    text-align: left;
+    font-family: "Edu VIC WA NT Beginner", sans-serif;
+    font-size: 40px;
+    letter-spacing: 4px;
+    color: chocolate;
+    opacity: 1;
+
+}
+
